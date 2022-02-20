@@ -11,5 +11,4 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: rootpass
       MYSQL_DATABASE: employee
-      MYSQL_USER: rootpass
       MYSQL_PASSWORD: rootpass
